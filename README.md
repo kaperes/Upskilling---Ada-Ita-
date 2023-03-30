@@ -78,8 +78,9 @@ Data Entrega |
 
 ## **Notas**
 
-- possibilidade de evoluir a solução feita no módulo DE-AW-006
-- informar os nomes dos integrantes do grupo
+- entrega será em grupos
+  - alunos e professores podem se organizar da forma que acharem necessário
+- possibilidade de evoluir a solução entregue no módulo DE-AW-006
 - realizar entregas parciais com o título do e-mail **[Upskilling - Ada & Itaú]** para os e-mails: 
   - Kamila de Kassia Peres 
     - kamila.peres@itau-unibanco.com.br
