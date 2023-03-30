@@ -78,9 +78,8 @@ Data Entrega |
 
 ## **Notas**
 
-- até 5 pessoas por grupo
-  - nomear os grupos
-  - informar os nomes dos integrantes
+- possibilidade de evoluir a solução feita no módulo DE-AW-006
+- informar os nomes dos integrantes do grupo
 - realizar entregas parciais com o título do e-mail **[Upskilling - Ada & Itaú]** para os e-mails: 
   - Kamila de Kassia Peres 
     - kamila.peres@itau-unibanco.com.br
