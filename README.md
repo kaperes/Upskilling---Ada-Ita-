@@ -37,7 +37,7 @@ A partir dos conhecimentos adquiridos nos módulos, será necessário **realizar
 
 Data Entrega |
 :------: |
-31/03 até 23h59 |
+03/04 até 23h59 |
 
 **Contextualizar o segmento**
   - o que é?
@@ -47,14 +47,14 @@ Data Entrega |
 
 Data Entrega |
 :------: |
-31/03 até 23h59 |
+03/04 até 23h59 |
 
 **Constuir um 'Desenho de Solução'**
   - *utilizar a ferramenta [Diagrams.net](https://app.diagrams.net/) ou [Excalidraw](https://excalidraw.com/)*
 
 Data Entrega |
 :------: |
-05/04 até 23h59 |
+11/04 até 23h59 |
 
 **Descrever o 'por que' dos serviço utilizados**
   - [serviços AWS](https://docs.aws.amazon.com/index.html)
@@ -62,7 +62,7 @@ Data Entrega |
 
 Data Entrega |
 :------: |
-05/04 até 23h59 |
+11/04 até 23h59 |
 
 **Aplicar Monitoramento e Observabilidade Minima**
   - metrics
@@ -74,13 +74,14 @@ Data Entrega |
 
 Data Entrega |
 :------: |
-10/04 até 17h00 |
+11/04 até 23h59 |
 
 ## **Notas**
 
 - entrega será em grupos
   - alunos e professores podem se organizar da forma que acharem necessário
-- possibilidade de evoluir a solução entregue no módulo DE-AW-006
+- possibilidade de evoluir a solução entregue no módulo **DE-AW-006**
+- possibilidade de tirar dúvidas com os especialistas do Itaú **(teams: Kamila Peres e Bruno Cruz)**
 - realizar entregas parciais com o título do e-mail **[Upskilling - Ada & Itaú]** para os e-mails: 
   - Kamila de Kassia Peres 
     - kamila.peres@itau-unibanco.com.br
